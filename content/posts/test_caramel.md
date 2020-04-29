@@ -1,19 +1,26 @@
 ---
 title: Test_caramel
-date: 2020-04-13T23:52:08-04:00
-lastmod: 2020-04-13T23:52:08-04:00
+date: 2020-04-14T03:52:08.000+00:00
+lastmod: 2020-04-14T03:52:08.000+00:00
 author: Mathorea
-cover: /img/caramel.jpg
-categories: ["desert"]
-tags: ["sucre", "miam"]
+cover: "/img/caramel.jpg"
+categories:
+- desert
+tags:
+- sucre
+- miam
 draft: true
+
 ---
 
-Cut out summary from your post content here.
-
 # Bonne recette du bonbon au caramel.
-<!--more-->
-# Recette Caramel
-Cette *recette* a été donné par mamie
 
-The remaining content of your post.
+Bonne recette bien sucre
+
+<!--more-->
+
+# Recette Caramel
+
+Cette _recette_ a été donné par mamie
+
+The remaining content of your 
