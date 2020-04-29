@@ -10,6 +10,10 @@ title = "Riz LOC LAC"
 +++
 **Riz LOC LAC**
 
+Recette d'un plat de chez moi.
+
+<!--more-->
+
 **Ingrédients**
 
 600g de Boeuf
