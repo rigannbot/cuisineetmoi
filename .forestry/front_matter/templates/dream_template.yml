@@ -24,4 +24,5 @@ fields:
   name: tags
   label: tags
 pages:
+- content/posts/rigatoni_thon_tomate_seche_cacahuete.md
 - content/posts/riz-loc-lac.md
