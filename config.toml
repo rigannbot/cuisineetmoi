@@ -1,6 +1,6 @@
-baseURL = "https://rigannbot.github.io/"
+baseURL = "https://cuisineetmoi.netlify.app/"
 languageCode = "fr-fr"
-title = "Cuisineetmoi, un blog de Mathorea"
+title = "Cuisine et moi, un blog de Mathorea"
 
 theme = "dream"
 enableRobotsTXT = true
@@ -12,15 +12,14 @@ enableRobotsTXT = true
 
   author = "Mathorea"
   description = "Mère d'une famille avec 2 enfants, je partage avec vous mes recettes du quotidien."
-  avatar = "/me/yy.jpg"
-  motto = "de la cuisine simple de tous les jours"
+  avatar = "/me/mathorea.jpg"
+  motto = "de la cuisine simple de tous les jours pour tous"
   
   email = "limmathorea@gmail.com"
 
-
   siteStartYear = 2020
 
-  favicon = "/favicon.ico"
+  #favicon = "/favicon.ico"
 
   # dark mode
   darkLinkColor = "darkseagreen"
