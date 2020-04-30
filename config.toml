@@ -1,5 +1,5 @@
 baseURL = "https://cuisineetmoi.netlify.app/"
-languageCode = "fr-fr"
+languageCode = "fr"
 title = "Cuisine et moi, un blog de Mathorea"
 
 theme = "dream"
@@ -25,3 +25,4 @@ enableRobotsTXT = true
   darkLinkColor = "darkseagreen"
   darkNav = true
   dark404Button = true
+
