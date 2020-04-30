@@ -11,9 +11,6 @@ fields:
 - type: datetime
   name: lastmod
   label: lastmod
-- type: text
-  name: author
-  label: author
 - type: file
   name: cover
   label: cover
@@ -23,6 +20,20 @@ fields:
 - type: list
   name: tags
   label: tags
+- name: preambule
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: preambule
+  description: "&lt;!-- article start here --&gt;<br><br># Ingrédients<br><br># Ustensils"
+- name: photo_step
+  type: image_gallery
+  config: {}
+  label: photo_step
 pages:
 - content/posts/rigatoni_thon_tomate_seche_cacahuete.md
 - content/posts/riz-loc-lac.md
